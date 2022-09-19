@@ -40,7 +40,7 @@ export class ApiService {
             .toPromise()
             .catch((e) => {
               ApiService.handleError(e);
-              throw e;
+              throw e
             });
   }
 
