@@ -85,6 +85,9 @@ The e2e tests are using Protractor and Jasmine.
 - 2-"lint" :to use linter
 - 4-"start" : to start the app using nodemon
 
+## Diagrams 
+- Diagrams included in the ./Diagrams
+
 ## Built With
 
 - [Angular](https://angular.io/) - Single Page Application Framework
