@@ -9,5 +9,5 @@ export AWS_REGION=us-east-1
 export AWS_PROFILE=default
 export JWT_SECRET=mysecretstring
 export URL=http://Udagramomar.us-east-1.elasticbeanstalk.com
-export Access_key_ID=AKIAUBFDVF4Z7K64COVV
-export Secret_access_key=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
+export Access_key_ID=AKIAUBFDVF4Z2L2T54LO
+export Secret_access_key=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
