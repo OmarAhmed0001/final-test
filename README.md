@@ -61,6 +61,30 @@ Unit tests are using the Jasmine Framework.
 
 The e2e tests are using Protractor and Jasmine.
 
+## all set up and connection and port in the .env file
+- {
+- POSTGRES_USERNAME=postgres
+- POSTGRES_PASSWORD=postgres
+- POSTGRES_HOST=database-2.cm5e4f3emg7m.us-east-1.rds.amazonaws.com
+- POSTGRES_DB=postgres
+- AWS_BUCKET=arn:aws:s3:::udagram-omar
+- AWS_REGION=us-east-1
+- AWS_PROFILE=default
+- JWT_SECRET=mysecretstring
+- URL=http://Udagramomar.us-east-1.elasticbeanstalk.com
+- Access_key_ID=AKIAUBFDVF4Z7K64COVV
+- Secret_access_key=Cdj/R3WjPnzxhnvDBl00HZm1jsbBh3PQ4Efl+im4
+}
+
+## Provide the link to your hosted working Front-End Application
+- http://udagram-omar.s3-website-us-east-1.amazonaws.com
+
+
+## the scripts as shown below
+
+- 2-"lint" :to use linter
+- 4-"start" : to start the app using nodemon
+
 ## Built With
 
 - [Angular](https://angular.io/) - Single Page Application Framework
